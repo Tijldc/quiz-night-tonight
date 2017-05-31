@@ -1,0 +1,75 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+}
+
+body{
+  	background: url(island-beach-scenery-wallpaper.jpg) no-repeat center center fixed; 
+  	background-size: cover; 	
+}
+
+
+.biggest-title {
+	text-align: center;
+	margin-top: 60px;
+	color: white;
+	font-size: 60px;
+	position: relative;
+	right: -470px;
+	bottom: -330px;
+	font-weight: bolder;
+}
+
+
+
+
+
+.container {
+
+	max-width: 700px;
+	border: 3px solid grey;
+	margin-left: 40px;
+	margin-top: 100px;
+	padding: 15px;
+	border-radius:10px;
+	background-color: white;
+	position: relative;
+	top: -80px;
+}
+
+.question-header {
+	text-align: center;
+}
+
+.question-itself{
+	text-align: center;
+}
+
+ul {
+	padding-top: 15px;
+}
+
+li {
+	list-style: none;
+	font-size: 1.3em;
+	margin-bottom: 5px;
+}
+
+
+button {
+	width: 90px;
+	height:40px;
+	margin: 5px;
+	position: relative;
+	
+	left: 70%;
+	border-radius: 5px;
+}
+
+button:hover {
+	font-weight: 900;
+	color:white;
+}
+
+
+
